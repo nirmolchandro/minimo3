@@ -1,0 +1,279 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Playfair Display', serif;
+}
+/* font-family: 'Ubuntu', sans-serif; */
+.container{
+    margin: 0 auto;
+    width: 90%;
+    overflow: hidden;
+}
+.display{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+/* header code start */
+.header{
+    padding: 35px 0px;
+}
+.logo{
+    width: 120px;
+}
+.logo img{
+    width: 100%;
+}
+.manu ul{
+    list-style: none;
+}
+.manu ul li{
+    display: inline-block;
+}
+.manu ul li a{
+    text-decoration: none;
+    margin-left: 30px;
+    padding: 5px 0;
+    font-size: 20px;
+    text-transform: uppercase;
+    color: rgb(140, 140, 140);
+    transition: 0.33s;
+}
+.manu ul li a:hover{
+    border-bottom: 1px solid rgb(140, 140, 140);
+}
+/* header code end */
+/* banner code start */
+.b-img img{
+   width: 100%;
+}
+/* banner code end */
+/* about code start */
+.about{
+   padding: 80px 0px;
+}
+.container2{
+    margin: 0 5%;
+}
+.photodiary{
+    font-size: 16px;
+    font-weight: 300;
+    color: #b4ad9e;
+    text-transform: uppercase;
+    margin: 0;
+}
+.perfect{
+    margin: 20px 0px 30px;
+    font-size: 30px;
+    font-weight: 400;
+}
+.pragraf{
+    line-height: 24px;
+}
+.man{
+    margin-top: 40px;
+}
+/* about code end */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
